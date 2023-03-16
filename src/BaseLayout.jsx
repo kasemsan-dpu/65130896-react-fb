@@ -7,6 +7,7 @@ import Report from "./Report";
 import Product from "./Product";
 import NoPage from "./NoPage";
 export default class BaseLayout extends Component {
+  
   render() {
     return (
       <div>
